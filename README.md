@@ -1,1 +1,1 @@
-# fractals
+# Displays fractals in Winforms
